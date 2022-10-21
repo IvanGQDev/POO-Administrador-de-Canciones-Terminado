@@ -6,7 +6,7 @@ int main()
 {
     Spotify spotify;
     string op;
-
+    //Menu para la clase administradora
     while (true) {
         cout << "1) Agregar cancion a favoritos" << endl;
         cout << "2) Mostrar favoritos" << endl;
